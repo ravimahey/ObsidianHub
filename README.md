@@ -2,6 +2,12 @@
 
 **Self-hosted, Git-backed sync for [Obsidian](https://obsidian.md/) vaults — built for teams, multiple devices, and anyone who doesn't want to pay for Obsidian Sync.**
 
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+![Git](https://img.shields.io/badge/Git-Required-orange)
+![Obsidian](https://img.shields.io/badge/Obsidian-Compatible-purple)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![AWS S3](https://img.shields.io/badge/AWS-S3-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## Why This Exists
