@@ -1,6 +1,6 @@
 # ObsidianHub
 
-**Self-hosted, Git-backed sync for Obsidian vaults — built for teams, multiple devices, and anyone who doesn't want to pay for Obsidian Sync.**
+**Self-hosted, Git-backed sync for [Obsidian](https://obsidian.md/) vaults — built for teams, multiple devices, and anyone who doesn't want to pay for Obsidian Sync.**
 
 ---
 
@@ -87,7 +87,7 @@ Works on **Windows**, **macOS**, and **Linux** — though this setup has been pr
 
 ### 1. Install Obsidian
 
-If you don't already have it, download Obsidian from [obsidian.md](https://obsidian.md/). Create a new vault or open an existing one. The vault is just a folder on your machine — take note of the path.
+If you don't already have it, download [Obsidian](https://obsidian.md/) from the official site. Create a new vault or open an existing one. The vault is just a folder on your machine — take note of the path.
 
 ### 2. Install Git
 
